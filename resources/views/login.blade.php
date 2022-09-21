@@ -24,7 +24,7 @@
                 <span class="fas fa-key"></span>
                 <input type="password" name="password" id="pwd" placeholder="Password">
             </div>
-            <button class="btn mt-3">Login</button>
+            <button class="btn mt-3" href="/page1">Login</button>
         </form>
         <div class="text-center fs-6">
             <a href="#">Forget password?</a> or <a href="/register">Sign up</a>
