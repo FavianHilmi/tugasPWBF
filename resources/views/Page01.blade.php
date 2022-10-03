@@ -99,7 +99,7 @@
       <div class="row gy-5" data-aos="fade-in">
         <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center text-center text-lg-start">
           <h2>Welcome to <span>eMomma</span></h2>
-          <p>Aplikasi untuk membantu Ibu dalam memantau kesehatan kehamilan dan balita.</p>
+          <p>Aplikasi untuk membantu Ibu dalam memantau kesehatan kehamilan dan balita 5 tahun</p>
           <div class="d-flex justify-content-center justify-content-lg-start">
             <a href="#about" class="btn-get-started">Mulai</a>
           </div>
