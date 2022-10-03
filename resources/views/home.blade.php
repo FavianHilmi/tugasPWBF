@@ -58,14 +58,14 @@
                             <i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
                         </span>
                         <h4 class="my-3">Terintegrasi Dashboard Puskesmas</h4>
-                        <p class="text-muted">Data hasil pengecekan kesehatan dapat diawasi oleh pihak puskesmas.</p>
+                        <p class="text-muted">Data hasil pengecekan kesehatan dapat diawasi oleh pihak puskesmas eMomma.</p>
                     </div>
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
                             <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="my-3">Tips & Info Kesehatan</h4>
+                        <h4 class="my-3">Tips & Trik Info Kesehatan</h4>
                         <p class="text-muted">Berisi berbagai info menarik seputar kesehatan Ibu dan Anak.</p>
                     </div>
                     <div class="col-md-4">
