@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controller\PostController;
 
 /*
 |--------------------------------------------------------------------------
@@ -32,3 +33,20 @@ Route::get('/register', function () {
 Route::get('/page1', function () {
     return view('Page01');
 });
+
+Route::get('/admin', function () {
+    return view('admin/admin');
+});
+
+Route::get('/dashboard','App\Http\Controllers\PagesController@dashboard');
+Route::get('/anak','App\Http\Controllers\PagesController@anak');
+Route::get('/penimbangan','App\Http\Controllers\PagesController@penimbangan');
+Route::get('/ibuhamil','App\Http\Controllers\PagesController@ibuhamil');
+Route::get('/vitamin','App\Http\Controllers\PagesController@vitamin');
+Route::get('/laporandataanak','App\Http\Controllers\PagesController@laporandataanak');
+Route::get('/laporanimmunisasi','App\Http\Controllers\PagesController@laporanimmunissasi');
+Route::get('/laporanpenimbangan','App\Http\Controllers\PagesController@laporanpenimbangan');
+Route::get('/laporandataibu','App\Http\Controllers\PagesController@laporandataibu');
+Route::get('/artikel','App\Http\Controllers\PagesController@artikel');
+Route::get('/tambahibuhamil','App\Http\Controllers\PagesController@tambahibuhamil');
+Route::post('/tambahibuhamil','App\Http\Controllers\PagesController@store');
