@@ -5,16 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Momma | Login</title>
-    <link href="css/styleslog.css" rel="stylesheet" />
+    <link href="assets/css/styleslog.css" rel="stylesheet" />
 </head>
 <body>
 <div class="wrapper">
         <div class="logo">
-            <img src="assets/img/LogoeMomma.png" alt="" width=100px height=100px>
+            <img src="assets/img/LogoeMomma.png" alt="" class="logo">
         </div>
-        <!-- <div class="text-center mt-4 name">
-            eMomma
-        </div> -->
+   
         <form class="p-3 mt-3">
             <div class="form-field d-flex align-items-center">
                 <span class="far fa-user"></span>
