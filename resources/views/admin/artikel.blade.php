@@ -31,7 +31,7 @@
 
     <div class="container-fluid" style="margin-top: 100px">
 
-    <h1 class="text-center">Artikel</h1>
+    <h1 class="text-center">Artikel Ilmiah</h1>
     <hr>
     <button class="btn btn-success m-1">Tambah</button>
     <hr>
