@@ -31,7 +31,11 @@
 
     <div class="container-fluid" style="margin-top: 100px">
 
+<<<<<<< HEAD
     <h1 class="text-center">Artikel</h1>
+=======
+    <h1 class="text-center">Artikel Ilmiah</h1>
+>>>>>>> 66180bbadf802893e19c63555603fef5ac689c58
     <hr>
     <button class="btn btn-success m-1">Tambah</button>
     <hr>
